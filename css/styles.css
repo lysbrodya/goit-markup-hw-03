@@ -182,7 +182,13 @@ ul {
     background-color: var(--herobot-bcg-color);
     margin-left: auto;
     margin-right: auto;
-    padding: 200px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.hero .container {
+    padding-top: 0px;
+    padding-bottom: 0px;
 }
 
 .hero-title {
